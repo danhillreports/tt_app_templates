@@ -3,3 +3,6 @@ dj-database-url==0.2.1
 dj-settings-helpers==1.0.0
 ipython
 django-extensions
+pyzmq>=2.1.11
+jinja2
+tornado
